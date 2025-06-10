@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1LlahF4cEDvgrFo_tT6I-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1LlahF4cEDvgrFo_tT6I-1" target="1LlahF4cEDvgrFo_tT6I-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1LlahF4cEDvgrFo_tT6I-1" value="用户输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="80" width="120" height="40" as="geometry" />
         </mxCell>
@@ -17,28 +20,34 @@
           <mxGeometry x="570" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1LlahF4cEDvgrFo_tT6I-6" value="归纳提炼主卖点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="90" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1LlahF4cEDvgrFo_tT6I-7" value="根据MoT时刻创意slogan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="250" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1LlahF4cEDvgrFo_tT6I-8" value="提炼价值主张" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1LlahF4cEDvgrFo_tT6I-9" value="&amp;nbsp;创意产品名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="570" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1LlahF4cEDvgrFo_tT6I-11" value="转化利益点话术slogan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="90" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1LlahF4cEDvgrFo_tT6I-14" value="优化slogan场景感" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="250" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1LlahF4cEDvgrFo_tT6I-15" value="优化slogan情感感染力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1LlahF4cEDvgrFo_tT6I-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="570" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1LlahF4cEDvgrFo_tT6I-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
