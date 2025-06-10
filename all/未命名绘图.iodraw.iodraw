@@ -10,8 +10,11 @@
         <mxCell id="1LlahF4cEDvgrFo_tT6I-2" value="产品Features拆解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1LlahF4cEDvgrFo_tT6I-4" value="产品Features拆解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1LlahF4cEDvgrFo_tT6I-4" value="挖掘产品优势Advantages" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1LlahF4cEDvgrFo_tT6I-5" value="挖掘产品优势Advantages" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
