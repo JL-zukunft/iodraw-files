@@ -31,6 +31,9 @@
         <mxCell id="1LlahF4cEDvgrFo_tT6I-11" value="转化利益点话术slogan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="320" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1LlahF4cEDvgrFo_tT6I-14" value="转化利益点话术slogan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
